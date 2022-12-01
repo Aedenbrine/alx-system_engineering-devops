@@ -1,1 +1,1 @@
-Yepa#!
+#!/bin/bash
